@@ -19,7 +19,7 @@ git config --global user.email "ronelprhone@gmail.com"
 
 Follow the instructions in [oh-my-zsh repository](https://github.com/robbyrussell/oh-my-zsh).
 
-## Git enhances
+### Git enhances
 
 A recommend **oh my zsh**, but if you want some enhaces to Git with your current bash,
 then you can add the files:
