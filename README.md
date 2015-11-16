@@ -9,6 +9,7 @@ Personal guide to install and configure some applications on [Ubuntu](http://ubu
 - [Atom Editor](atom.md)
 - [MySQL](mysql.md)
 - [Java](java.md)
+- [Chrome](chrome.md)
 
 ## License
 
