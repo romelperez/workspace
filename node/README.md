@@ -1,4 +1,4 @@
-# Node and NPM
+# Node and npm
 
 ## Install `node` 4.x and `npm`:
 
