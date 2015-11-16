@@ -4,7 +4,7 @@ Personal guide to install and configure some applications on [Ubuntu](http://ubu
 
 ## Programming apps
 
-- [Git](git.md)
+- [Git](git/)
 - [Node and NPM](node.md)
 - [Atom Editor](atom.md)
 - [MySQL](mysql.md)
