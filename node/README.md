@@ -56,6 +56,12 @@ sudo npm install -g winston
 sudo npm install -g sails
 ```
 
+### Frontend frameworks
+
+```bash
+sudo npm install -g foundation-cli
+```
+
 ### Utilities
 
 ```bash
