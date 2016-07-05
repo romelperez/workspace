@@ -1,6 +1,6 @@
 # Workspace
 
-Personal guide to install and configure some applications on [Ubuntu](http://ubuntu.com) 14.04 LTS.
+Personal guide to install and configure OS applications.
 
 ## Programming apps
 
@@ -14,4 +14,4 @@ Personal guide to install and configure some applications on [Ubuntu](http://ubu
 
 ## License
 
-[MIT](https://github.com/romelperez/ubuntu-workspace/blob/master/LICENSE)
+[MIT](./LICENSE)
