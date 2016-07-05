@@ -22,6 +22,8 @@ apm install seti-syntax
 
 ```bash
 # appearance
+apm install tron-legacy-ui
+apm install neon-syntax theme
 apm install minimap
 apm install pigments
 apm install neon-selection
