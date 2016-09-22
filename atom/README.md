@@ -10,29 +10,30 @@ Download and install it from debian package from [atom.io](https://atom.io/).
 
 ```bash
 apm install seti-ui
+apm install tron-legacy-ui
 ```
 
 ### Syntax theme:
 
 ```bash
 apm install seti-syntax
+apm install neon-syntax
 ```
 
 ### Development packages
 
 ```bash
 # appearance
-apm install tron-legacy-ui
-apm install neon-syntax theme
 apm install minimap
 apm install pigments
 apm install neon-selection
 apm install neon-cursor
+apm install activate-power-mode
 
 # tools
-apm install color-picker
 apm install emmet
 apm install autoprefixer
+apm install color-picker
 apm install react
 apm install selection-highlight
 
@@ -44,8 +45,10 @@ apm install project-manager
 apm install editorconfig
 apm install git-control
 apm install autocomplete-paths
+
+# linters
 apm install linter
-apm install jshint
+apm install linter-eslint
 
 # files
 apm install atom-beautify
@@ -62,7 +65,6 @@ apm install wakatime
 ### Configure packages
 
 - `minimap`: Enable option 'absolute mode'.
-- `jshint`: Enable option 'JSX'.
 - `wakatime`: Enable [Wakatime](http://wakatime.com) by adding the key after registering at website.
 
 ## Settings
