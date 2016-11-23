@@ -11,6 +11,7 @@ Download and install it from debian package from [atom.io](https://atom.io/).
 ```bash
 apm install seti-ui
 apm install tron-legacy-ui
+apm install file-icons
 ```
 
 ### Syntax theme:
@@ -71,3 +72,9 @@ apm install wakatime
 
 - Font size: 12
 - Show ident guide: true
+
+## Customization
+
+- [Snippets](https://gist.github.com/romelperez/a244043bed680292db509fd8fc427ab0)
+- [Styles](https://gist.github.com/romelperez/5a02fb32782acc9e286ed23035230c30)
+- [Keybindings](https://gist.github.com/romelperez/b31fa9037c275f9415ac5419298108e8)
