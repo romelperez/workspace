@@ -14,7 +14,3 @@ Personal guide to install and configure OS applications.
 - [Ruby](ruby/)
 - [MySQL](mysql/)
 - [Chrome](chrome/)
-
-## License
-
-[MIT](./LICENSE)
