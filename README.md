@@ -7,6 +7,7 @@ Personal guide to install and configure OS applications.
 
 ## Programming apps
 
+- [General](general/)
 - [Git](git/)
 - [Node and npm](node/)
 - [Atom Editor](atom/)
