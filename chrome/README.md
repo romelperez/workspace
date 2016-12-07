@@ -2,15 +2,13 @@
 
 ## Flags
 
-In the browser, go to:
-
-```
-http://chrome://flags
-```
-
-And enable:
+In the browser, go to: [http://chrome://flags](http://chrome://flags) and enable:
 
 - Enable Developer Tools experiments
+
+## Themes
+
+- [Celestial Lights](https://chrome.google.com/webstore/detail/celestial-lights/lbnkklencjcmkepldaineciclcheaoef)
 
 ## Extensions
 
