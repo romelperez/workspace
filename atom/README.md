@@ -4,6 +4,8 @@
 
 Download and install it from debian package from [atom.io](https://atom.io/).
 
+Also, read [awesome-atom](https://github.com/mehcode/awesome-atom).
+
 ## Install packages
 
 ### UI theme
@@ -12,6 +14,7 @@ Download and install it from debian package from [atom.io](https://atom.io/).
 apm install seti-ui
 apm install tron-legacy-ui
 apm install file-icons
+apm install front-icons
 ```
 
 ### Syntax theme:
