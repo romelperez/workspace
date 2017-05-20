@@ -8,6 +8,7 @@ In the browser, go to: [http://chrome://flags](http://chrome://flags) and enable
 
 ## Themes
 
+- [Prometheus](https://chrome.google.com/webstore/detail/prometheus/ihemonhgolnbhhmfkbfhhhpfhooncdhd)
 - [Celestial Lights](https://chrome.google.com/webstore/detail/celestial-lights/lbnkklencjcmkepldaineciclcheaoef)
 
 ## Extensions
